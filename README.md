@@ -1,4 +1,7 @@
-This is our final project. 
+Tess Ritter and Freyja Feeney
+This is our final project for CS008 at UVM.
+
+We both study a lot and listen to music and have our own study methods. I personally like the pomodoro study method and Freyja always listens to lofi music. We decided to create a website to help students study.
 
 The clock and timer widgets are free notion widgets that we embedded into our cite, and the links are included in the index.php code. 
 
